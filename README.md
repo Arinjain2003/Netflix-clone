@@ -8,7 +8,7 @@ A basic warmup exercise. Simple, practice oriented, clone of the Netflix Homepag
 - CSS
 - Vanilla JS - ES6
 
-  LIVE DEMO : https://netflix-clone-7h2idi08e-arinjain2003s-projects.vercel.app/#
+  LIVE DEMO : https://netflix-clone-coral-iota.vercel.app/
 
 ## What it does
 
